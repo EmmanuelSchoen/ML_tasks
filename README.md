@@ -1,6 +1,6 @@
 ## ML_tasks
 
-# Data Science # is a complex field demanding bunch of specialized skills. As a beginner, I'd like to make my own # study plan#.
+# Data Science is a complex field demanding bunch of specialized skills. As a beginner, I'd like to make my own study plan#.
 
 1. Improving my Math - linear algebra, statistics, probability theory courses.
 
